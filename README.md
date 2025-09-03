@@ -6,6 +6,9 @@ This is a simple web application built with Node.js and Express that demonstrate
 The application includes a login page, a simple authentication module, a product display page, and a checkout page.
 
 
+
+
+
         
 * How to run the code 
 .1 In order to run this code the following technlogies must be installed on your system
@@ -22,6 +25,9 @@ NPM (Node Package Manager): Comes with Node.js, used for installing dependencies
 5. Browse products
 
 6. Buy products and checkout
+
+
+
 
 
 
