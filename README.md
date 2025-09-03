@@ -7,7 +7,7 @@ The application includes a login page, a simple authentication module, a product
 
 
         
-o    How to run the code 
+* How to run the code 
 .1 In order to run this code the following technlogies must be installed on your system
 Node.js
 MySQL Server: The database system for storing product data.
@@ -25,11 +25,10 @@ NPM (Node Package Manager): Comes with Node.js, used for installing dependencies
 
 
 
-o    Required Technologies
 
 
-    
-    o    Required Technologies
+
+* Required Technologies
 
 Backend: Node.js, Express.js
 
