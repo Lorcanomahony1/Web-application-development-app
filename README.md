@@ -7,21 +7,25 @@ The application includes a login page, a simple authentication module, a product
 
 
         
-    o    How to run the code 
-    .1 In order to run this code the following technlogies must be installed on your system
-    Node.js
-    MySQL Server: The database system for storing product data.
-    NPM (Node Package Manager): Comes with Node.js, used for installing dependencies.
-    
-    2. This code is run using the node command in the command line i.e. "node, index.js"
+o    How to run the code 
+.1 In order to run this code the following technlogies must be installed on your system
+Node.js
+MySQL Server: The database system for storing product data.
+NPM (Node Package Manager): Comes with Node.js, used for installing dependencies.
 
-    3. Access the Application: Open your web browser and navigate to http://localhost:3000. You will be directed to the login page.
+2. This code is run using the node command in the command line i.e. "node, index.js"
 
-    4. Login, using the login form, 
+3. Access the Application: Open your web browser and navigate to http://localhost:3000. You will be directed to the login page.
 
-    5. Browse products
+4. Login, using the login form, 
 
-    6. Buy products and checkout
+5. Browse products
+
+6. Buy products and checkout
+
+
+
+o    Required Technologies
 
 
     
